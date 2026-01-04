@@ -1,8 +1,0 @@
-/Users/etnikahalili/perfume-inventory-system/backend/target/debug/deps/mongodb_internal_macros-98e4f17d634e3485.d: /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mongodb-internal-macros-3.4.1/src/lib.rs /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mongodb-internal-macros-3.4.1/src/action_impl.rs /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mongodb-internal-macros-3.4.1/src/option.rs /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mongodb-internal-macros-3.4.1/src/rustdoc.rs
-
-/Users/etnikahalili/perfume-inventory-system/backend/target/debug/deps/libmongodb_internal_macros-98e4f17d634e3485.dylib: /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mongodb-internal-macros-3.4.1/src/lib.rs /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mongodb-internal-macros-3.4.1/src/action_impl.rs /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mongodb-internal-macros-3.4.1/src/option.rs /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mongodb-internal-macros-3.4.1/src/rustdoc.rs
-
-/Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mongodb-internal-macros-3.4.1/src/lib.rs:
-/Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mongodb-internal-macros-3.4.1/src/action_impl.rs:
-/Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mongodb-internal-macros-3.4.1/src/option.rs:
-/Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mongodb-internal-macros-3.4.1/src/rustdoc.rs:

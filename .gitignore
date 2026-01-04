@@ -1,1 +1,17 @@
-/target
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Rust (Backend)
+backend/target/
+backend/Cargo.lock
+
+# Vue.js (Frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/npm-debug.log*
+
+# Python (AI Service - for later)
+venv/
+**/__pycache__/
+*.pyc
