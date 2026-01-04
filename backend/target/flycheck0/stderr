@@ -1,0 +1,134 @@
+   0.089463708s  INFO prepare_target{force=false package_id=backend v0.1.0 (/Users/etnikahalili/perfume-inventory-system/backend) target="backend"}: cargo::core::compiler::fingerprint: fingerprint error for backend v0.1.0 (/Users/etnikahalili/perfume-inventory-system/backend)/Check { test: false }/TargetInner { name: "backend", doc: true, ..: with_path("/Users/etnikahalili/perfume-inventory-system/backend/src/main.rs", Edition2024) }
+   0.089480958s  INFO prepare_target{force=false package_id=backend v0.1.0 (/Users/etnikahalili/perfume-inventory-system/backend) target="backend"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/etnikahalili/perfume-inventory-system/backend/target/debug/.fingerprint/backend-e0d3748c15546820/bin-backend`
+
+Caused by:
+    No such file or directory (os error 2)
+
+Stack backtrace:
+   0: std::backtrace::Backtrace::create
+   1: std::backtrace::Backtrace::capture
+   2: cargo_util::paths::read_bytes
+   3: cargo_util::paths::read
+   4: cargo::core::compiler::fingerprint::_compare_old_fingerprint
+   5: cargo::core::compiler::fingerprint::prepare_target
+   6: cargo::core::compiler::compile
+   7: <cargo::core::compiler::build_runner::BuildRunner>::compile
+   8: cargo::ops::cargo_compile::compile_ws
+   9: cargo::ops::cargo_compile::compile_with_exec
+  10: cargo::ops::cargo_compile::compile
+  11: cargo::commands::check::exec
+  12: <cargo::cli::Exec>::exec
+  13: cargo::main
+  14: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
+  15: std::rt::lang_start::<()>::{closure#0}
+  16: std::rt::lang_start_internal
+  17: _main
+   0.092503875s  INFO prepare_target{force=false package_id=axum v0.7.9 target="axum"}: cargo::core::compiler::fingerprint: fingerprint error for axum v0.7.9/Check { test: false }/TargetInner { ..: lib_target("axum", ["lib"], "/Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-0.7.9/src/lib.rs", Edition2021) }
+   0.092513000s  INFO prepare_target{force=false package_id=axum v0.7.9 target="axum"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/etnikahalili/perfume-inventory-system/backend/target/debug/.fingerprint/axum-b8082b3b2364a0c0/lib-axum`
+
+Caused by:
+    No such file or directory (os error 2)
+
+Stack backtrace:
+   0: std::backtrace::Backtrace::create
+   1: std::backtrace::Backtrace::capture
+   2: cargo_util::paths::read_bytes
+   3: cargo_util::paths::read
+   4: cargo::core::compiler::fingerprint::_compare_old_fingerprint
+   5: cargo::core::compiler::fingerprint::prepare_target
+   6: cargo::core::compiler::compile
+   7: cargo::core::compiler::compile
+   8: <cargo::core::compiler::build_runner::BuildRunner>::compile
+   9: cargo::ops::cargo_compile::compile_ws
+  10: cargo::ops::cargo_compile::compile_with_exec
+  11: cargo::ops::cargo_compile::compile
+  12: cargo::commands::check::exec
+  13: <cargo::cli::Exec>::exec
+  14: cargo::main
+  15: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
+  16: std::rt::lang_start::<()>::{closure#0}
+  17: std::rt::lang_start_internal
+  18: _main
+   0.097142167s  INFO prepare_target{force=false package_id=mongodb v3.4.1 target="mongodb"}: cargo::core::compiler::fingerprint: fingerprint error for mongodb v3.4.1/Check { test: false }/TargetInner { ..: lib_target("mongodb", ["lib"], "/Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/mongodb-3.4.1/src/lib.rs", Edition2021) }
+   0.097157042s  INFO prepare_target{force=false package_id=mongodb v3.4.1 target="mongodb"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/etnikahalili/perfume-inventory-system/backend/target/debug/.fingerprint/mongodb-d4378cd3a7d14324/lib-mongodb`
+
+Caused by:
+    No such file or directory (os error 2)
+
+Stack backtrace:
+   0: std::backtrace::Backtrace::create
+   1: std::backtrace::Backtrace::capture
+   2: cargo_util::paths::read_bytes
+   3: cargo_util::paths::read
+   4: cargo::core::compiler::fingerprint::_compare_old_fingerprint
+   5: cargo::core::compiler::fingerprint::prepare_target
+   6: cargo::core::compiler::compile
+   7: cargo::core::compiler::compile
+   8: <cargo::core::compiler::build_runner::BuildRunner>::compile
+   9: cargo::ops::cargo_compile::compile_ws
+  10: cargo::ops::cargo_compile::compile_with_exec
+  11: cargo::ops::cargo_compile::compile
+  12: cargo::commands::check::exec
+  13: <cargo::cli::Exec>::exec
+  14: cargo::main
+  15: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
+  16: std::rt::lang_start::<()>::{closure#0}
+  17: std::rt::lang_start_internal
+  18: _main
+   0.103506667s  INFO prepare_target{force=false package_id=hickory-resolver v0.25.2 target="hickory_resolver"}: cargo::core::compiler::fingerprint: fingerprint error for hickory-resolver v0.25.2/Check { test: false }/TargetInner { ..: lib_target("hickory_resolver", ["lib"], "/Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hickory-resolver-0.25.2/src/lib.rs", Edition2021) }
+   0.103523917s  INFO prepare_target{force=false package_id=hickory-resolver v0.25.2 target="hickory_resolver"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/etnikahalili/perfume-inventory-system/backend/target/debug/.fingerprint/hickory-resolver-0635dbac3efb4cc0/lib-hickory_resolver`
+
+Caused by:
+    No such file or directory (os error 2)
+
+Stack backtrace:
+   0: std::backtrace::Backtrace::create
+   1: std::backtrace::Backtrace::capture
+   2: cargo_util::paths::read_bytes
+   3: cargo_util::paths::read
+   4: cargo::core::compiler::fingerprint::_compare_old_fingerprint
+   5: cargo::core::compiler::fingerprint::prepare_target
+   6: cargo::core::compiler::compile
+   7: cargo::core::compiler::compile
+   8: cargo::core::compiler::compile
+   9: <cargo::core::compiler::build_runner::BuildRunner>::compile
+  10: cargo::ops::cargo_compile::compile_ws
+  11: cargo::ops::cargo_compile::compile_with_exec
+  12: cargo::ops::cargo_compile::compile
+  13: cargo::commands::check::exec
+  14: <cargo::cli::Exec>::exec
+  15: cargo::main
+  16: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
+  17: std::rt::lang_start::<()>::{closure#0}
+  18: std::rt::lang_start_internal
+  19: _main
+   0.107606833s  INFO prepare_target{force=false package_id=backend v0.1.0 (/Users/etnikahalili/perfume-inventory-system/backend) target="backend"}: cargo::core::compiler::fingerprint: fingerprint error for backend v0.1.0 (/Users/etnikahalili/perfume-inventory-system/backend)/Check { test: true }/TargetInner { name: "backend", doc: true, ..: with_path("/Users/etnikahalili/perfume-inventory-system/backend/src/main.rs", Edition2024) }
+   0.107613292s  INFO prepare_target{force=false package_id=backend v0.1.0 (/Users/etnikahalili/perfume-inventory-system/backend) target="backend"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/etnikahalili/perfume-inventory-system/backend/target/debug/.fingerprint/backend-3ea5d873725b7e8d/test-bin-backend`
+
+Caused by:
+    No such file or directory (os error 2)
+
+Stack backtrace:
+   0: std::backtrace::Backtrace::create
+   1: std::backtrace::Backtrace::capture
+   2: cargo_util::paths::read_bytes
+   3: cargo_util::paths::read
+   4: cargo::core::compiler::fingerprint::_compare_old_fingerprint
+   5: cargo::core::compiler::fingerprint::prepare_target
+   6: cargo::core::compiler::compile
+   7: <cargo::core::compiler::build_runner::BuildRunner>::compile
+   8: cargo::ops::cargo_compile::compile_ws
+   9: cargo::ops::cargo_compile::compile_with_exec
+  10: cargo::ops::cargo_compile::compile
+  11: cargo::commands::check::exec
+  12: <cargo::cli::Exec>::exec
+  13: cargo::main
+  14: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
+  15: std::rt::lang_start::<()>::{closure#0}
+  16: std::rt::lang_start_internal
+  17: _main
+    Checking hickory-resolver v0.25.2
+    Checking axum v0.7.9
+    Checking mongodb v3.4.1
+    Checking backend v0.1.0 (/Users/etnikahalili/perfume-inventory-system/backend)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 5.08s

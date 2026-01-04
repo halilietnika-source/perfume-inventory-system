@@ -1,0 +1,10 @@
+/Users/etnikahalili/perfume-inventory-system/backend/target/debug/deps/serde_bytes-7a2f08b0b05ad10d.d: /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_bytes-0.11.19/src/lib.rs /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_bytes-0.11.19/src/bytearray.rs /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_bytes-0.11.19/src/bytes.rs /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_bytes-0.11.19/src/de.rs /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_bytes-0.11.19/src/ser.rs /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_bytes-0.11.19/src/bytebuf.rs
+
+/Users/etnikahalili/perfume-inventory-system/backend/target/debug/deps/libserde_bytes-7a2f08b0b05ad10d.rmeta: /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_bytes-0.11.19/src/lib.rs /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_bytes-0.11.19/src/bytearray.rs /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_bytes-0.11.19/src/bytes.rs /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_bytes-0.11.19/src/de.rs /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_bytes-0.11.19/src/ser.rs /Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_bytes-0.11.19/src/bytebuf.rs
+
+/Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_bytes-0.11.19/src/lib.rs:
+/Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_bytes-0.11.19/src/bytearray.rs:
+/Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_bytes-0.11.19/src/bytes.rs:
+/Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_bytes-0.11.19/src/de.rs:
+/Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_bytes-0.11.19/src/ser.rs:
+/Users/etnikahalili/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_bytes-0.11.19/src/bytebuf.rs:
