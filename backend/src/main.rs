@@ -16,8 +16,10 @@ use futures::stream::StreamExt; // This will work after you run 'cargo add'
 pub struct Perfume {
     #[serde(rename = "_id", skip_serializing_if = "Option::is_none")]
     pub id: Option<ObjectId>,
+    pub code: String,
     pub name: String,
     pub brand: String,
+    pub size: i32,
     pub price: f64,
     pub stock: i32,
 
